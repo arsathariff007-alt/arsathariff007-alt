@@ -8,7 +8,7 @@
 <img src="https://komarev.com/ghpvc/?username=arsathariff0007&label=Profile+Views&color=70a5fd&style=flat-square" alt="Profile Views"/>
 
 <!-- TYPING HEADER -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Mohammed+Arsath+Arif M+%F0%9F%91%8B;QA+Engineer+%7C+Software+Tester;Selenium+%2B+Java+Automation+Specialist;Building+Quality%2C+One+Test+at+a+Time" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Mohammed+Arsath+ArifM+%F0%9F%91%8B;QA+Engineer+%7C+Software+Tester;Selenium+%2B+Java+Automation+Specialist;Building+Quality%2C+One+Test+at+a+Time" alt="Typing SVG"/>
 
 </div>
 
