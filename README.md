@@ -18,7 +18,7 @@
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```java
-public class ArsathArifM {
+public class ArsathArif M {
 
     String name        = "Mohammed Arsath Arif M";
     String location    = "Bangalore, India 🇮🇳";
