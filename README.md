@@ -2,7 +2,7 @@
 <div align="center">
 
 <!-- HERO BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohammed%20Arsath%20Arif M&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=QA%20Engineer%20%7C%20Breaking%20Software%20Before%20Users%20Do&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohammed%20Arsath%20ArifM&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=QA%20Engineer%20%7C%20Breaking%20Software%20Before%20Users%20Do&descAlignY=62&descSize=16" width="100%"/>
 
 <!-- PROFILE VIEWS -->
 <img src="https://komarev.com/ghpvc/?username=arsathariff0007&label=Profile+Views&color=70a5fd&style=flat-square" alt="Profile Views"/>
